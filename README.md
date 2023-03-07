@@ -1,7 +1,6 @@
 # LCD
 ![220543090-d59d5918-7afb-4131-bcb9-0680bd0aa362](https://user-images.githubusercontent.com/124211806/223567171-b4373bf1-5460-4795-a608-9896b2da627d.png)
 
-                                        
                                         TECNOLÓGICO NACIONAL DE MÉXICO
                                         INSTITUTO TECNOLÓGICO DE TIJUANA
 
@@ -32,6 +31,7 @@
 
 
 
+<h1 align="center">  LCD historia  </h1>
 # Marco teorico 
 
 Una pantalla LCD (Liquid Crystal Display) es un tipo de pantalla plana que utiliza cristales líquidos para producir imágenes y texto. La tecnología LCD se basa en la propiedad de algunos materiales de cambiar la polarización de la luz cuando se someten a un campo eléctrico.
