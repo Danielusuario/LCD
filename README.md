@@ -42,6 +42,9 @@ La tecnología de las pantallas LCD se originó en la década de 1960, cuando se
 
 <div align="center"><img src= ![lcd-historia](https://user-images.githubusercontent.com/124211806/223572065-9ed9f4a7-4aca-4d3e-b5cd-8b207caa3e18.jpg) ></div>
 
+<p> 
+<img src=  ![lcd-historia](https://user-images.githubusercontent.com/124211806/223572065-9ed9f4a7-4aca-4d3e-b5cd-8b207caa3e18.jpg)  align="right">Texto tan extenso como queramos que cubrirá la parte izquierda de la imagen. Sigo poniendo texto para que se vea el efecto, Bla bla bla bla bla bla bla... 
+</p>
 
 
 En los años 90, las pantallas LCD comenzaron a reemplazar a los monitores CRT (Tubo de Rayos Catódicos) en computadoras y televisores debido a su bajo consumo de energía, tamaño compacto y capacidad para producir imágenes de alta calidad. A medida que la tecnología mejoró, las pantallas LCD se hicieron más populares y se utilizaron en una amplia variedad de dispositivos, desde relojes digitales hasta calculadoras y teléfonos móviles.
