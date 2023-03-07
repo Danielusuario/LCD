@@ -46,6 +46,10 @@ En los años 90, las pantallas LCD comenzaron a reemplazar a los monitores CRT (
 
 En la actualidad, las pantallas LCD se encuentran en una gran cantidad de dispositivos electrónicos, desde televisores hasta consolas de videojuegos y dispositivos móviles. La tecnología ha avanzado significativamente en los últimos años, con la introducción de pantallas LCD con retroiluminación LED y pantallas táctiles capacitivas.
 
+![220543090-d59d5918-7afb-4131-bcb9-0680bd0aa362](https://user-images.githubusercontent.com/124211806/223569871-32f2a723-1e38-4ed8-8d26-904d44347413.png)
+
 En cuanto a su implementación en Raspberry Pi Pico, esta placa de desarrollo cuenta con pines GPIO que permiten la conexión de pantallas LCD mediante el uso de librerías específicas, como la librería "RPi.GPIO" y la librería "Adafruit CircuitPython". Estas librerías facilitan la implementación de la pantalla LCD en el proyecto, permitiendo la configuración de pines específicos y la comunicación con la pantalla a través de un protocolo como I2C o SPI.
+
+
 
 En conclusión, las pantallas LCD son un tipo de pantalla plana que utiliza cristales líquidos para producir imágenes y texto. La tecnología se originó en la década de 1960, pero no se popularizó hasta la década de 1990 debido a su capacidad para producir imágenes de alta calidad, bajo consumo de energía y tamaño compacto. En Raspberry Pi Pico, se pueden implementar pantallas LCD mediante el uso de librerías específicas que permiten la comunicación con la pantalla a través de pines GPIO.
