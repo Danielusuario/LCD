@@ -32,7 +32,7 @@
 
 
 
-#Marco teorico 
+# Marco teorico 
 
 Una pantalla LCD (Liquid Crystal Display) es un tipo de pantalla plana que utiliza cristales líquidos para producir imágenes y texto. La tecnología LCD se basa en la propiedad de algunos materiales de cambiar la polarización de la luz cuando se someten a un campo eléctrico.
 
