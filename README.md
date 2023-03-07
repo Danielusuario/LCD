@@ -40,11 +40,7 @@ Una pantalla LCD (Liquid Crystal Display) es un tipo de pantalla plana que utili
 
 La tecnología de las pantallas LCD se originó en la década de 1960, cuando se descubrió la capacidad de ciertos materiales para cambiar la polarización de la luz. La primera pantalla de cristal líquido se construyó en 1968, pero la tecnología no se utilizó ampliamente hasta la década de 1990.
 
-<div align="center"><img src= ![lcd-historia](https://user-images.githubusercontent.com/124211806/223572065-9ed9f4a7-4aca-4d3e-b5cd-8b207caa3e18.jpg) ></div>
-
-<p> 
-<img src=  ![lcd-historia](https://user-images.githubusercontent.com/124211806/223572065-9ed9f4a7-4aca-4d3e-b5cd-8b207caa3e18.jpg)  align="right">Texto tan extenso como queramos que cubrirá la parte izquierda de la imagen. Sigo poniendo texto para que se vea el efecto, Bla bla bla bla bla bla bla... 
-</p>
+![lcd-historia](https://user-images.githubusercontent.com/124211806/223572691-4fab4074-73ba-4393-aed5-91dfd404a989.jpg)
 
 
 En los años 90, las pantallas LCD comenzaron a reemplazar a los monitores CRT (Tubo de Rayos Catódicos) en computadoras y televisores debido a su bajo consumo de energía, tamaño compacto y capacidad para producir imágenes de alta calidad. A medida que la tecnología mejoró, las pantallas LCD se hicieron más populares y se utilizaron en una amplia variedad de dispositivos, desde relojes digitales hasta calculadoras y teléfonos móviles.
