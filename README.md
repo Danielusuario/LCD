@@ -21,6 +21,9 @@ En la actualidad, las pantallas LCD se encuentran en una gran cantidad de dispos
 
 ![descarga](https://user-images.githubusercontent.com/124211806/223570252-9d57c68a-cf20-4d6a-909f-f1fec27ad3c6.jpg)
 
+# esquema de pantalla LCD con conexion a rasperri pi pico
+
+https://i0.wp.com/arduino.cc/en/uploads/Tutorial/LCD_schem.png
 
 
 En cuanto a su implementación en Raspberry Pi Pico, esta placa de desarrollo cuenta con pines GPIO que permiten la conexión de pantallas LCD mediante el uso de librerías específicas, como la librería "RPi.GPIO" y la librería "Adafruit CircuitPython". Estas librerías facilitan la implementación de la pantalla LCD en el proyecto, permitiendo la configuración de pines específicos y la comunicación con la pantalla a través de un protocolo como I2C o SPI.
