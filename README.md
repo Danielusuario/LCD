@@ -37,7 +37,7 @@ En conclusión, las pantallas LCD son un tipo de pantalla plana que utiliza cris
 ![image](https://user-images.githubusercontent.com/124211806/227034391-a3eef424-ceba-4b41-a186-b2429d10ae80.png)
 
 
-#Especificaciones y Caracteristicas 
+# Especificaciones y Caracteristicas 
 
 >* Tipo: Pantalla LCD Monocromática
 >* Voltaje de alimentación: 3.3V / 5V DC
