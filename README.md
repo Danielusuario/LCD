@@ -2,14 +2,23 @@
 ![220543090-d59d5918-7afb-4131-bcb9-0680bd0aa362](https://user-images.githubusercontent.com/124211806/223567171-b4373bf1-5460-4795-a608-9896b2da627d.png)
 ![Portada](https://github.com/Danielusuario/LCD/assets/124211806/de58578b-1b2b-43d6-908d-6c0ff258454e)
 
-<div> <h1 align="center">  LCD historia  </h1> </div>
+<div> <h1 align="center">  Smart Cities  </h1> </div>
 
 
-# Marco teorico 
+# Índice
+- [1. Introducción](#1-introducción)
+- [2. Justificación](#2-justificación)
+- [3. Tema de la Investigación](#3-tema-de-la-investigación)
+- [4. Generalidades del Proyecto](#4-generalidades-del-proyecto)
+- [5. Objetivo General](#5-objetivo-general)
+- [6. Objetivos Específicos](#6-objetivos-específicos)
 
-Una pantalla LCD (Liquid Crystal Display) es un tipo de pantalla plana que utiliza cristales líquidos para producir imágenes y texto. La tecnología LCD se basa en la propiedad de algunos materiales de cambiar la polarización de la luz cuando se someten a un campo eléctrico.
+#Introducción
 
-La tecnología de las pantallas LCD se originó en la década de 1960, cuando se descubrió la capacidad de ciertos materiales para cambiar la polarización de la luz. La primera pantalla de cristal líquido se construyó en 1968, pero la tecnología no se utilizó ampliamente hasta la década de 1990.
+En el siglo XXI, nuestras ciudades están experimentando una transformación radical, impulsada por avances tecnológicos que están remodelando la forma en que vivimos, trabajamos y aprendemos. En este contexto, un enfoque esencial y en constante evolución es la creación de "Smart Cities" o Ciudades Inteligentes, diseñadas para optimizar la calidad de vida de sus habitantes y, en particular, para brindar oportunidades excepcionales a los estudiantes.
+En esta exploración, abordaremos cómo las Ciudades Inteligentes pueden servir como entornos ideales para el aprendizaje y el crecimiento de los estudiantes. Desde el acceso a recursos educativos de vanguardia hasta sistemas de transporte eficientes y tecnología de seguridad innovadora, estas ciudades están redefiniendo la forma en que los jóvenes adquieren conocimiento, se desplazan y se mantienen seguros. Este enfoque no solo beneficia a los estudiantes actuales, sino que también sienta las bases para una generación futura de ciudadanos altamente capacitados y conscientes de su entorno.
+En este contexto apasionante, exploramos las diversas facetas de las Ciudades Inteligentes con un enfoque en estudiantes, destacando cómo la tecnología está creando oportunidades sin precedentes para la educación y sobre todo para el desempeño académico y comparar el resultado de estudiantes de las smart cities con información y datos tomados de ciudades inteligentes ya existentes contra el de nuestros encuestados.
+
 
 ![lcd-historia](https://user-images.githubusercontent.com/124211806/223572691-4fab4074-73ba-4393-aed5-91dfd404a989.jpg)
 
