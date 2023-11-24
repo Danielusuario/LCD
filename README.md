@@ -13,36 +13,44 @@
 - [5. Objetivo General](#5-objetivo-general)
 - [6. Objetivos Específicos](#6-objetivos-específicos)
 
-# Introducción
+# 1. Introducción
 
 En el siglo XXI, nuestras ciudades están experimentando una transformación radical, impulsada por avances tecnológicos que están remodelando la forma en que vivimos, trabajamos y aprendemos. En este contexto, un enfoque esencial y en constante evolución es la creación de "Smart Cities" o Ciudades Inteligentes, diseñadas para optimizar la calidad de vida de sus habitantes y, en particular, para brindar oportunidades excepcionales a los estudiantes.
 En esta exploración, abordaremos cómo las Ciudades Inteligentes pueden servir como entornos ideales para el aprendizaje y el crecimiento de los estudiantes. Desde el acceso a recursos educativos de vanguardia hasta sistemas de transporte eficientes y tecnología de seguridad innovadora, estas ciudades están redefiniendo la forma en que los jóvenes adquieren conocimiento, se desplazan y se mantienen seguros. Este enfoque no solo beneficia a los estudiantes actuales, sino que también sienta las bases para una generación futura de ciudadanos altamente capacitados y conscientes de su entorno.
 En este contexto apasionante, exploramos las diversas facetas de las Ciudades Inteligentes con un enfoque en estudiantes, destacando cómo la tecnología está creando oportunidades sin precedentes para la educación y sobre todo para el desempeño académico y comparar el resultado de estudiantes de las smart cities con información y datos tomados de ciudades inteligentes ya existentes contra el de nuestros encuestados.
 
+# 2. Justificación
 
-![lcd-historia](https://user-images.githubusercontent.com/124211806/223572691-4fab4074-73ba-4393-aed5-91dfd404a989.jpg)
-
-
-En los años 90, las pantallas LCD comenzaron a reemplazar a los monitores CRT (Tubo de Rayos Catódicos) en computadoras y televisores debido a su bajo consumo de energía, tamaño compacto y capacidad para producir imágenes de alta calidad. A medida que la tecnología mejoró, las pantallas LCD se hicieron más populares y se utilizaron en una amplia variedad de dispositivos, desde relojes digitales hasta calculadoras y teléfonos móviles.
-
-En la actualidad, las pantallas LCD se encuentran en una gran cantidad de dispositivos electrónicos, desde televisores hasta consolas de videojuegos y dispositivos móviles. La tecnología ha avanzado significativamente en los últimos años, con la introducción de pantallas LCD con retroiluminación LED y pantallas táctiles capacitivas.
-
-![descarga](https://user-images.githubusercontent.com/124211806/223570252-9d57c68a-cf20-4d6a-909f-f1fec27ad3c6.jpg)
-
-# Raspberry Pi Pico y la pantalla LCD
-
-En cuanto a su implementación en Raspberry Pi Pico, esta placa de desarrollo cuenta con pines GPIO que permiten la conexión de pantallas LCD mediante el uso de librerías específicas, como la librería "RPi.GPIO" y la librería "Adafruit CircuitPython". Estas librerías facilitan la implementación de la pantalla LCD en el proyecto, permitiendo la configuración de pines específicos y la comunicación con la pantalla a través de un protocolo como I2C o SPI.
+En la actualidad, las ciudades enfrentan retos significativos en términos de crecimiento demográfico, movilidad urbana, acceso a la educación de calidad y sostenibilidad ambiental. Uno de los grupos más importantes y prometedores en cualquier sociedad son los estudiantes, ya que representan el futuro y el potencial de desarrollo de una ciudad. Por lo tanto, es imperativo que diseñemos y adaptemos nuestras ciudades para satisfacer las necesidades específicas de este grupo demográfico.
+El desarrollo de una "Ciudad Inteligente" con un enfoque específico en estudiantes se presenta como una iniciativa fundamental para abordar los desafíos actuales y futuros de nuestras comunidades urbanas. Este enfoque estratégico se justifica a través de tres pilares esenciales: educación, seguridad y movilidad, todos impulsados por la implementación de tecnologías avanzadas. A continuación, se detallan las razones detrás de esta justificación.
 
 
+# 3. Tema de la Investigación
+ Impacto de la tecnología en el aprendizaje y la calidad de vida de los estudiantes en ciudades inteligentes y ciudades convencionales.
 
-En conclusión, las pantallas LCD son un tipo de pantalla plana que utiliza cristales líquidos para producir imágenes y texto. La tecnología se originó en la década de 1960, pero no se popularizó hasta la década de 1990 debido a su capacidad para producir imágenes de alta calidad, bajo consumo de energía y tamaño compacto. En Raspberry Pi Pico, se pueden implementar pantallas LCD mediante el uso de librerías específicas que permiten la comunicación con la pantalla a través de pines GPIO.
+# 4. Generalidades del Proyecto
+# Acceso Equitativo a Recursos Educativos:
+La tecnología puede proporcionar un acceso equitativo a recursos educativos de alta calidad, incluyendo plataformas de aprendizaje en línea y bibliotecas digitales. Esto es especialmente relevante en un mundo en el que el aprendizaje a distancia y el acceso a información relevante son cruciales para el éxito académico.
+# Aprendizaje Personalizado:
+Las tecnologías educativas permiten la personalización del aprendizaje, adaptando el contenido y los recursos según las necesidades individuales de cada estudiante, lo que puede mejorar significativamente el rendimiento académico.
+# Movilidad: Transporte Eficiente y Seguro:
+La tecnología puede optimizar el transporte público, con sistemas de seguimiento en tiempo real y rutas escolares inteligentes. Esto asegura que los estudiantes lleguen a sus escuelas de manera segura y oportuna, al tiempo que reduce la congestión y las emisiones de carbono.
+# Aplicaciones de Movilidad:
+Las aplicaciones móviles pueden proporcionar información en tiempo real sobre rutas, horarios de transporte y alternativas de movilidad, facilitando la planificación y el desplazamiento de los estudiantes.
+
+# 5. Objetivo General
+Analizar las percepciones, conocimientos y opiniones de los estudiantes del Instituto Tecnológico de Tijuana Unidad Tomás Aquino respecto a las smart cities, así como promover el uso de las tecnologías en la educación con el propósito de proporcionar una visión integral de cómo estas iniciativas tecnológicas están beneficiando al alumnado.
+
+# 6. Objetivos Específicos
+
+1- Determinar el grado de acceso que tienen los estudiantes universitarios a recursos educativos digitales.
+2- Explorar la historia de las smart cities, el origen de estas y su evolución a lo largo del tiempo. 
+3- Explicar  los  conceptos y terminologías clave que determinan las smart cities y  que se utilizan para describir su funcionamiento y desarrollo.
+4- Informar las funciones y los diseños que se han implementado en las distintas ciudades donde ya existen las smart cities.
+5- Analizar qué tanto beneficia o perjudica el uso de tecnologías y medios digitales el rendimiento académico de los alumnos.
 
 
 
-
-# esquema de pantalla LCD con conexion a rasperri pi pico
-
-![image](https://user-images.githubusercontent.com/124211806/227034391-a3eef424-ceba-4b41-a186-b2429d10ae80.png)
 
 
 # Especificaciones y Caracteristicas 
