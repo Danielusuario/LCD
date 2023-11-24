@@ -1,4 +1,5 @@
 # Smart cities
+## Erick Jotolon., se la come .i.
 
 ![220543090-d59d5918-7afb-4131-bcb9-0680bd0aa362](https://user-images.githubusercontent.com/124211806/223567171-b4373bf1-5460-4795-a608-9896b2da627d.png)
 ![Portada](https://github.com/Danielusuario/LCD/assets/124211806/de58578b-1b2b-43d6-908d-6c0ff258454e)
