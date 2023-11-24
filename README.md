@@ -1,4 +1,5 @@
 # Smart cities
+<div> <h1 align="center"> Erick Jotolon, se la come   </h1> </div>
 ![220543090-d59d5918-7afb-4131-bcb9-0680bd0aa362](https://user-images.githubusercontent.com/124211806/223567171-b4373bf1-5460-4795-a608-9896b2da627d.png)
 ![Portada](https://github.com/Danielusuario/LCD/assets/124211806/de58578b-1b2b-43d6-908d-6c0ff258454e)
 
@@ -12,6 +13,33 @@
 - [4. Generalidades del Proyecto](#4-generalidades-del-proyecto)
 - [5. Objetivo General](#5-objetivo-general)
 - [6. Objetivos Específicos](#6-objetivos-específicos)
+- [7. Tipo de Investigación](#7-tipo-de-investigación)
+- [8. Preguntas de la Investigación](#8-preguntas-de-la-investigación)
+- [9. Alcances](#9-alcances)
+- [10. Limitaciones](#10-limitaciones)
+- [11. Planteamiento del Problema](#11-planteamiento-del-problema)
+- [12. Hipótesis](#12-hipótesis)
+- [13. Marco Teórico](#13-marco-teórico)
+  - [13.1. Definición de Smart City](#131-definición-de-smart-city)
+  - [13.2. ¿Qué es la Sostenibilidad?](#132-qué-es-la-sostenibilidad)
+  - [13.3. Eficiencia Energética](#133-eficiencia-energética)
+  - [13.4. ¿Por qué es Importante la Interoperabilidad?](#134-por-qué-es-importante-la-interoperabilidad)
+- [14. Evaluación del Acceso a Recursos Educativos Digitales](#14-evaluación-del-acceso-a-recursos-educativos-digitales)
+- [15. Historia y Evolución de las Ciudades Inteligentes](#15-historia-y-evolución-de-las-ciudades-inteligentes)
+  - [15.1. Nacimiento de la Idea](#151-nacimiento-de-la-idea)
+  - [15.2. ¿Cuál fue la Primera Smart City?](#152-cuál-fue-la-primera-smart-city)
+- [16. Conceptos y Terminologías Clave de las Ciudades Inteligentes](#16-conceptos-y-terminologías-clave-de-las-ciudades-inteligentes)
+- [17. Metodología](#17-metodología)
+  - [17.1. Funciones y los Diseños Implementados](#171-funciones-y-los-diseños-implementados)
+- [18. Tabla de Cumplimientos de Objetivos](#18-tabla-de-cumplimientos-de-objetivos)
+- [19. Cronograma](#19-cronograma)
+- [20. Encuesta de Smart Cities](#20-encuesta-de-smart-cities)
+- [21. Resultados y Conclusiones de la Encuesta Cities](#21-resultados-y-conclusiones-de-la-encuesta-cities)
+  - [21.1. Encuestas más Relevantes](#211-encuestas-más-relevantes)
+  - [21.2. Conclusión sobre las Preguntas más Relevantes](#212-conclusión-sobre-las-preguntas-más-relevantes)
+- [22. Conclusión](#22-conclusión)
+- [Referencias](#referencias)
+
 
 # 1. Introducción
 
