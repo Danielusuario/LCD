@@ -203,7 +203,7 @@ Las funciones y diseños implementados en las distintas ciudades inteligentes va
 
 
 ## 19. Cronograma
-[...](https://app.asana.com/share/tectijuanaedu/cronograma/974779906471396/6a8576e6393dc1ba6d2bb87a95b61e68
+[LINIK del Cronograma](https://app.asana.com/share/tectijuanaedu/cronograma/974779906471396/6a8576e6393dc1ba6d2bb87a95b61e68
 )
 
 ## 20. Encuesta de Smart Cities
