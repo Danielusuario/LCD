@@ -1,4 +1,4 @@
-# LCD
+# Smart cities
 ![220543090-d59d5918-7afb-4131-bcb9-0680bd0aa362](https://user-images.githubusercontent.com/124211806/223567171-b4373bf1-5460-4795-a608-9896b2da627d.png)
 ![image](https://user-images.githubusercontent.com/124211806/224199009-f7ff5df1-1021-43e6-b362-d01c8c8b96f4.png)
 
