@@ -112,43 +112,83 @@ Proponer recomendaciones y buenas prácticas basadas en los resultados de la inv
 
 
 ## 11. Planteamiento del Problema
-...
+La falta de conocimiento por parte de los estudiantes, o la aparente falta de interés en el tema de las smart cities como posibles soluciones a problemas futuros en el desarrollo de nuestras ciudades, tiene un efecto negativo en la acumulación de información y el desarrollo de conocimientos críticos entre los futuros ingenieros. Esto resulta en una situación en la que la desinformación y la ignorancia pueden prevalecer entre aquellos que podrían ser los motores del cambio en su propia institución educativa. Es fundamental destacar que los estudiantes de ingeniería tienen el potencial de desempeñar un papel crucial en la introducción de transformaciones significativas en su entorno académico.
 
 ## 12. Hipótesis
-...
+Existe una relación entre el acceso a la tecnología y el rendimiento académico de los estudiantes del Instituto Tecnológico de Tijuana, y que esta relación es positiva. En otras palabras, se espera que los estudiantes que tienen acceso a la tecnología tengan un mejor desempeño académico que aquellos que no tienen acceso a ella.
 
 ## 13. Marco Teórico
-...
-
 ### 13.1. Definición de Smart City
-...
+Las Ciudades Inteligentes son mucho más que meros centros urbanos equipados con tecnología de vanguardia. Son espacios dinámicos donde la tecnología se convierte en una aliada clave en la búsqueda de una educación de calidad, la seguridad de los estudiantes y una movilidad eficiente.
+En palabras de Giffinger et al. (2007): "Una ciudad inteligente es una ciudad bien equilibrada, capaz de satisfacer las necesidades básicas de sus residentes, así como proporcionar una alta calidad de vida".
+La IBM (International Business Machines Corporation) una empresa multinacional de tecnología más grandes y antiguas en el campo de la tecnología de la información define las smart cities como: "Una ciudad inteligente es aquella que aprovecha las TIC para integrar y optimizar sus sistemas y servicios, mejorando así la calidad de vida de sus ciudadanos y la sostenibilidad urbana" (s.f.).
 
 ### 13.2. ¿Qué es la Sostenibilidad?
-...
+El concepto de sostenibilidad se refiere a la capacidad de mantener o preservar un sistema, proceso o recurso a lo largo del tiempo, de manera que pueda satisfacer las necesidades actuales sin comprometer la capacidad de las generaciones futuras para satisfacer sus propias necesidades.
+El foro económico mundial (s.f.) define "La sostenibilidad se refiere a la capacidad de un sistema para mantenerse y prosperar en el tiempo. Esto implica una consideración equilibrada de los aspectos económicos, sociales y ambientales".
 
 ### 13.3. Eficiencia Energética
-...
+La eficiencia energética se refiere a la capacidad de obtener un mayor rendimiento o producción de energía a partir de una cantidad dada de recursos energéticos, minimizando al mismo tiempo el desperdicio y las pérdidas.
+Según el Instituto de Eficiencia Energética (IEE): "La eficiencia energética es una estrategia que busca utilizar menos energía para proporcionar el mismo nivel de producción o servicios, o incluso más, sin comprometer la calidad o el confort" (s.f.).
 
 ### 13.4. ¿Por qué es Importante la Interoperabilidad?
-...
+La interoperabilidad es la capacidad de diferentes sistemas, aplicaciones, dispositivos o componentes de software para comunicarse, intercambiar datos y trabajar juntos de manera efectiva y coherente, sin restricciones significativas ni pérdida de información.
+El Instituto de Ingenieros Eléctricos y Electrónicos (IEEE) define este concepto como: "La interoperabilidad se refiere a la capacidad de dos o más sistemas o componentes para intercambiar información y utilizar la información intercambiada de manera efectiva y consistente" (s.f.).
 
 ## 14. Evaluación del Acceso a Recursos Educativos Digitales
-...
+El acceso a recursos educativos digitales es esencial para el aprendizaje y la formación en la sociedad contemporánea. En el contexto de las Ciudades Inteligentes, donde la tecnología desempeña un papel central en la mejora de la calidad de vida de los ciudadanos, es importante evaluar cómo los estudiantes universitarios acceden y utilizan estos recursos. Para comprender este fenómeno, es necesario considerar varios aspectos teóricos:
+Acceso digital y brecha digital: El acceso a recursos educativos digitales se relaciona con la brecha digital, que es la diferencia en la capacidad de las personas para acceder y utilizar tecnologías digitales. Esto puede ser influenciado por factores socioeconómicos, geográficos y generacionales (DiMaggio & Hargittai, 2001).
+Ciudades Inteligentes y tecnología: Las Ciudades Inteligentes se caracterizan por el uso extensivo de tecnologías digitales para mejorar la calidad de vida. Esto incluye la implementación de infraestructuras de tecnología de la información y comunicación (TIC) que pueden impactar en el acceso a recursos educativos digitales (Caragliu, Del Bo, & Nijkamp, 2011)
 
 ## 15. Historia y Evolución de las Ciudades Inteligentes
-...
+Comprender la historia y evolución de las Ciudades Inteligentes es fundamental para contextualizar su relación con la educación y los recursos digitales. 
 
 ### 15.1. Nacimiento de la Idea
-...
+Algunos conceptos teóricos clave incluyen: Orígenes de las Ciudades Inteligentes: Las Ciudades Inteligentes tienen sus raíces en el desarrollo de las TIC y la búsqueda de soluciones para los desafíos urbanos. Los conceptos de "ciudades inteligentes" o "ciudades digitales" se han desarrollado a lo largo del tiempo (Giffinger et al., 2007).
+El concepto de las smart cities nació en 2005 cuando se afianzó esa idea de que las ciudades deberían aprovechar la tecnología para responder al reto que suponía su elevado crecimiento poblacional. Así, los avances permitirían diseñar mejores urbes y lograr una más elevada calidad de vida para sus habitantes. Fue cuando se comenzó a hablar de cómo el big data, la automatización y la inteligencia artificial lo iban a revolucionar todo. (Raquel C. Pico, 2022).
 
 ### 15.2. ¿Cuál fue la Primera Smart City?
-...
+La idea de las "ciudades inteligentes" o "smart cities" comenzó a tomar forma en la década de 1990, pero no hay una fecha exacta en la que se pueda decir que se construyó la primera smart city. En lugar de eso, las ciudades inteligentes se han desarrollado gradualmente a lo largo del tiempo a medida que se han implementado tecnologías y soluciones para mejorar la eficiencia, la sostenibilidad y la calidad de vida en las áreas urbanas. Una smart city no se crea desde cero, se desarrolla con el tiempo y la evolución de la misma ciudad, implementando tecnologías e innovaciones para mejorar la calidad de vida de estas ciudades. (Wikipedia., s.f.).
+Una de las ciudades inteligentes más reconocidas del mundo es Tokio, la cual se ha esforzado en encajar en el concepto de smart city a través de diversas iniciativas y tecnologías que buscan mejorar la calidad de vida de sus residentes y la eficiencia de la ciudad en general.
+Tokio ha desarrollado uno de los sistemas de transporte público más avanzados del mundo. La puntualidad y la eficiencia de los trenes y metros son ejemplos de esto. Además, se han implementado sistemas de pago electrónico y aplicaciones móviles para facilitar los desplazamientos de los residentes y turistas. Dada la ubicación geográfica de Tokio, propensa a terremotos y tifones, la ciudad ha invertido en sistemas avanzados de alerta temprana y respuesta a desastres. También se ha centrado en la eficiencia energética, promoviendo la construcción de edificios sostenibles y la adopción de tecnologías de ahorro de energía. La ciudad también está explorando la generación de energía renovable.
 
 ## 16. Conceptos y Terminologías Clave de las Ciudades Inteligentes
-...
+Para cumplir con el objetivo de informar sobre los conceptos y terminologías clave de las Ciudades Inteligentes, es importante considerar lo siguiente: Internet de las Cosas (IoT): La IoT es una tecnología central en las Ciudades Inteligentes que permite la interconexión de dispositivos y objetos físicos para recopilar y compartir datos (Atzori, Iera, & Morabito, 2010). 
+Big Data y Analítica: Las Ciudades Inteligentes generan grandes cantidades de datos que se utilizan para tomar decisiones informadas. La analítica de datos es esencial para procesar y comprender esta información (Zanella et al., 2014).
+Para cumplir con el objetivo de informar sobre los conceptos y terminologías clave de las Ciudades Inteligentes, es importante considerar lo siguiente: Internet de las Cosas (IoT): La IoT es una tecnología central en las Ciudades Inteligentes que permite la interconexión de dispositivos y objetos físicos para recopilar y compartir datos (Atzori, Iera, & Morabito, 2010). 
+Big Data y Analítica: Las Ciudades Inteligentes generan grandes cantidades de datos que se utilizan para tomar decisiones informadas. La analítica de datos es esencial para procesar y comprender esta información (Zanella et al., 2014).
+Conectividad: La infraestructura de comunicación que permite la transmisión de datos entre dispositivos, sensores y sistemas en toda la ciudad.
+Sostenibilidad: El enfoque en la reducción de la huella de carbono, la conservación de recursos naturales y la promoción de prácticas sostenibles en la ciudad.
+Ciberseguridad: La protección de la infraestructura y los datos de la ciudad contra amenazas cibernéticas para garantizar la privacidad y la seguridad de los ciudadanos.
+Infraestructura digital: La base tecnológica que permite la operación de servicios inteligentes en la ciudad, incluyendo redes de fibra óptica, Wi-Fi público y otros sistemas de comunicación.
+Ciudadanos digitales: Los habitantes de la ciudad que utilizan activamente la tecnología y los servicios digitales para interactuar con su entorno y participar en la vida cívica.
 
 ## 17. Metodología
-...
+Planificación Urbana Inteligente: La planificación urbana inteligente se refiere a la utilización de tecnologías y datos para mejorar la gestión del espacio urbano, la movilidad y la infraestructura (Komninos, 2002).
+Modelos de Ciudades Inteligentes: Diferentes ciudades pueden adoptar modelos y enfoques diversos en su camino hacia convertirse en Ciudades Inteligentes. Estos modelos pueden estar influenciados por factores políticos, económicos y culturales (Yigitcan Lar, Kamruzzaman, Teriman, 2016).
+El futuro de las smart cities: En la actualidad, muchas ciudades en todo el mundo están implementando tecnologías inteligentes en áreas como la gestión del tráfico, la eficiencia energética, la gestión de residuos, la seguridad pública y mucho más para mejorar la calidad de vida de sus habitantes y abordar los desafíos urbanos.
+El futuro de las smart cities se centrará en la adopción continua de tecnología y enfoques inteligentes para abordar los desafíos urbanos y mejorar la calidad de vida de los ciudadanos. La colaboración entre gobiernos, empresas y la sociedad civil será fundamental para el éxito de estas iniciativas. Además, se espera que la innovación y la adaptabilidad sigan siendo aspectos clave en la evolución de las smart cities en las próximas décadas.
+El futuro de las ciudades del mundo depende de nuestra capacidad para abrazar la innovación, la sostenibilidad y la inclusión en la búsqueda de un mañana más próspero y equitativo.
+
+
+Conceptos Clave para el Acceso a Recursos Educativos Digitales en una Ciudad Inteligente:
+Ciudad Inteligente (Smart City): Una Ciudad Inteligente es un entorno urbano que utiliza tecnologías avanzadas, como sensores, análisis de datos y conectividad, para mejorar la calidad de vida de sus ciudadanos, gestionar eficazmente los recursos y brindar servicios más eficientes.
+
+>* Recursos Educativos Digitales: Se refiere a cualquier contenido o herramienta de aprendizaje que está disponible en formato digital, como plataformas de aprendizaje en línea, bibliotecas digitales, aplicaciones educativas y material interactivo.
+Acceso Universal: Implica que todos los ciudadanos, incluyendo estudiantes universitarios, tienen igualdad de acceso a recursos educativos digitales, independientemente de su ubicación, ingresos o nivel de habilidad tecnológica.
+>* Inclusión Digital: La inclusión digital se refiere a la capacidad de las personas para acceder y utilizar tecnologías digitales. En una Ciudad Inteligente, es esencial garantizar que no haya brechas digitales que excluyan a ciertos grupos de la población.
+>* Conceptos Clave para la Evolución de las Smart Cities:
+Origen de las Smart Cities: Las Smart Cities surgieron como una respuesta a los desafíos urbanos, como la congestión del tráfico, la contaminación y la gestión ineficiente de recursos. Su origen se remonta a la década de 1970, pero ganaron impulso en el siglo XXI con avances tecnológicos.
+>* IoT (Internet de las Cosas): El IoT es una tecnología fundamental en las Smart Cities, que implica la conexión de objetos cotidianos a internet para recopilar datos y automatizar procesos, como la gestión del tráfico y la recolección de basura.
+>* Gestión de Datos en Tiempo Real: Las Smart Cities se basan en la recopilación y análisis de datos en tiempo real para tomar decisiones informadas y optimizar la administración de la ciudad.
+>* Sostenibilidad Ambiental: La sostenibilidad ambiental es un objetivo clave de las Smart Cities, que buscan reducir su huella de carbono y promover prácticas ecoamigables.
+Conceptos Clave para Funciones y Diseños en Smart Cities:
+>* Gestión del Tráfico Inteligente: Incluye sistemas de semáforos inteligentes, sensores de tráfico y aplicaciones de navegación para reducir la congestión y mejorar la movilidad.
+>* Eficiencia Energética: Las Smart Cities implementan sistemas de iluminación y climatización eficientes en edificios públicos y privados para reducir el consumo de energía.
+Seguridad Pública Inteligente: Utiliza cámaras de vigilancia y sistemas de alerta temprana para mejorar la seguridad en la ciudad.
+>* Gestión de Residuos Inteligente: Implica la recolección de basura basada en datos para optimizar rutas y reducir el desperdicio.
+>* Participación Ciudadana: Las Smart Cities fomentan la participación activa de los ciudadanos a través de aplicaciones y plataformas para informar sobre problemas y propuestas.
+
 
 ### 17.1. Funciones y los Diseños Implementados
 ...
