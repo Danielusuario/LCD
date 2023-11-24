@@ -78,7 +78,104 @@ Analizar las percepciones, conocimientos y opiniones de los estudiantes del Inst
 5- Analizar qué tanto beneficia o perjudica el uso de tecnologías y medios digitales el rendimiento académico de los alumnos.
 
 
+# 7. Tipo de Investigación
+La investigación que se llevará a cabo será de tipo cuantitativa, con el objetivo de tener mediciones precisas de variables clave en el contexto de las Smart Cities, como la eficiencia energética, la movilidad urbana, el uso de recursos, la calidad del aire. Estas mediciones cuantitativas son esenciales para evaluar por medio de encuestas a los alumnos para saber que piensan con respecto al cambio que podría hacerse siendo negativo o positivo.
 
+## 8. Preguntas de la Investigación
+¿Cómo la tecnología y la infraestructura digital en el entorno universitario en una Ciudad Inteligente afectan la experiencia de aprendizaje?
+¿Cómo influyen las tecnologías de la información y comunicación en la participación de los estudiantes en actividades educativas y extracurriculares en ciudades inteligentes?
+¿Cuál es la relación entre la implementación de tecnologías educativas y la mejora de la calidad en el desempeño académico de los estudiantes?
+¿Cómo influye la brecha tecnológica que existe en países con smart cities actuales con países latinoamericanos?
+¿Qué desafíos enfrentan los estudiantes con el uso de tecnologías, en su desempeño académico?
+
+## 9. Alcances
+### Conceptualización: 
+Comprender y definir qué son las Smart Cities, sus características clave y cómo han evolucionado con el tiempo.
+### Impacto en la Sociedad: 
+Ver cómo los estudiantes creen que las Smart Cities podrían afectar a los ciudadanos en términos de servicios públicos, participación ciudadana, seguridad, empleo y calidad de vida.
+### Difusión de Información: 
+Comunica y difundir la información sobre las Smart Cities a los estudiantes.
+### Evaluación de las Percepciones de los Estudiantes: 
+Investigar las opiniones y percepciones de los estudiantes universitarios sobre cómo la tecnología ha afectado su experiencia de aprendizaje y su calidad de vida en una Ciudad Inteligente. Esto puede incluir encuestas, entrevistas y grupos de enfoque.
+### Estudio de Caso en Ciudades Específicas: 
+Realizar estudios de caso en Ciudades Inteligentes específicas para analizar sus enfoques de tecnología en la educación y cómo han influido en la calidad de vida de los estudiantes.
+Proponer recomendaciones y buenas prácticas basadas en los resultados de la investigación para mejorar el rendimiento escolar de los estudiantes y su experiencia de aprendizaje en Ciudades Inteligentes.
+
+
+## 10. Limitaciones
+1. Si la muestra de estudiantes puede que sea limitada a nuestro alcance, los resultados pueden no ser generalizables.
+2. Poco alcance de difusión hacia los alumnos  .
+3. La resistencia al cambio es una limitación con el avance ya que se encuentran varios factores como la falta de innovación, desconfianza, falta de         
+ participación y resultados inciertos. 
+4. La brecha económica y tecnológica que pueden experimentar los alumnos entre sí.
+5. Establecer una relación causal entre el uso de la tecnología y el aprendizaje o la calidad de vida de los estudiantes puede ser complicado debido a la presencia de múltiples variables y factores que pueden influir en los resultados.
+
+
+## 11. Planteamiento del Problema
+...
+
+## 12. Hipótesis
+...
+
+## 13. Marco Teórico
+...
+
+### 13.1. Definición de Smart City
+...
+
+### 13.2. ¿Qué es la Sostenibilidad?
+...
+
+### 13.3. Eficiencia Energética
+...
+
+### 13.4. ¿Por qué es Importante la Interoperabilidad?
+...
+
+## 14. Evaluación del Acceso a Recursos Educativos Digitales
+...
+
+## 15. Historia y Evolución de las Ciudades Inteligentes
+...
+
+### 15.1. Nacimiento de la Idea
+...
+
+### 15.2. ¿Cuál fue la Primera Smart City?
+...
+
+## 16. Conceptos y Terminologías Clave de las Ciudades Inteligentes
+...
+
+## 17. Metodología
+...
+
+### 17.1. Funciones y los Diseños Implementados
+...
+
+## 18. Tabla de Cumplimientos de Objetivos
+...
+
+## 19. Cronograma
+...
+
+## 20. Encuesta de Smart Cities
+...
+
+## 21. Resultados y Conclusiones de la Encuesta Cities
+...
+
+### 21.1. Encuestas más Relevantes
+...
+
+### 21.2. Conclusión sobre las Preguntas más Relevantes
+...
+
+## 22. Conclusión
+...
+
+# Referencias
+...
 
 
 # Especificaciones y Caracteristicas 
