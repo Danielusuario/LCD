@@ -199,134 +199,58 @@ Las funciones y diseños implementados en las distintas ciudades inteligentes va
         >* Desarrollo sostenible: Las smart cities tienden a promover la sostenibilidad ambiental mediante la plantación de árboles, la creación de áreas verdes             y la promoción de la movilidad sostenible, como el uso de bicicletas y vehículos eléctricos.
 
 ## 18. Tabla de Cumplimientos de Objetivos
-...
+![cuadroo](https://github.com/Danielusuario/LCD/assets/124211806/16f057b0-0cf8-4d65-881d-d368303390be)
+
 
 ## 19. Cronograma
-...
+[...](https://app.asana.com/share/tectijuanaedu/cronograma/974779906471396/6a8576e6393dc1ba6d2bb87a95b61e68
+)
 
 ## 20. Encuesta de Smart Cities
-...
+https://acortar.link/FormularioSmartCities
+
+![qr](https://github.com/Danielusuario/LCD/assets/124211806/507d7a3b-43b2-425a-9c0d-0fed6577d093)
+
 
 ## 21. Resultados y Conclusiones de la Encuesta Cities
 ...
 
 ### 21.1. Encuestas más Relevantes
-...
+
+![encuestas](https://github.com/Danielusuario/LCD/assets/124211806/ba23264f-1c63-4f69-89e5-f838410ece69)
 
 ### 21.2. Conclusión sobre las Preguntas más Relevantes
-...
+
+Conocimiento sobre Ciudades Inteligentes: Una proporción significativa de los encuestados está familiarizada con el concepto de ciudades inteligentes. Esto indica un nivel de conciencia sobre la importancia y el potencial de la tecnología en la planificación y gestión urbana.
+Mejora en la Experiencia de Aprendizaje: Las opiniones están divididas en cuanto a si la tecnología y la infraestructura digital han mejorado la experiencia de aprendizaje. Esto sugiere que, aunque la tecnología está presente, su impacto puede variar según la percepción individual o la implementación en distintas universidades.
+Acceso a Recursos Educativos de Alta Calidad: La mayoría de los encuestados siente que han tenido acceso a recursos educativos digitales de alta calidad. Esto es un indicador positivo de que las universidades están invirtiendo en recursos digitales que enriquecen la experiencia educativa.
+Contribución de la Inversión Tecnológica: La mayoría también considera que la inversión en tecnología ha contribuido a un entorno de aprendizaje más innovador y eficiente. Esto refleja una percepción positiva del impacto de la tecnología en el ambiente educativo.
+En resumen, los datos sugieren que hay una percepción generalmente positiva sobre el impacto de las ciudades inteligentes y la tecnología en la educación universitaria, aunque hay variabilidad en cuanto a la experiencia personal de mejora en el aprendizaje. Estos hallazgos pueden ser valiosos para formular políticas educativas y estrategias de inversión tecnológica en el contexto de ciudades inteligentes.
+
 
 ## 22. Conclusión
-...
+Esta investigación, centrada en el Instituto Tecnológico de Tijuana Unidad Tomás Aquino, ha explorado cómo las ciudades inteligentes pueden mejorar la calidad de vida y la experiencia educativa de los estudiantes universitarios. Se ha demostrado que el acceso a tecnologías avanzadas y a recursos educativos digitales de alta calidad es percibido como un factor significativo que contribuye a un entorno de aprendizaje más innovador y eficiente.
+
+Los datos recopilados a través de encuestas revelan una conciencia considerable sobre el concepto de ciudades inteligentes entre los estudiantes. Sin embargo, las opiniones están divididas respecto a si la infraestructura digital actual ha mejorado de manera concreta su experiencia de aprendizaje. Esto sugiere que, si bien se reconoce la importancia de la tecnología, su implementación y efectividad pueden variar considerablemente.
+
+La investigación resalta la relevancia de las ciudades inteligentes en el ámbito educativo, especialmente en cuanto al acceso equitativo a recursos educativos, personalización del aprendizaje y mejoras en la movilidad y seguridad. La integración de tecnologías de la información y comunicación en la educación y la vida cotidiana de los estudiantes es un factor clave para el desarrollo de ciudades más eficientes y sostenibles.
+
+En conclusión, esta investigación subraya la necesidad de una mayor inversión y enfoque estratégico en la integración de tecnologías avanzadas en las ciudades y las instituciones educativas. La adaptación a las necesidades específicas de los estudiantes y la garantía de acceso equitativo a recursos digitales de alta calidad son esenciales para maximizar los beneficios de las ciudades inteligentes. Asimismo, es crucial fomentar una mayor comprensión y participación activa de los estudiantes en el desarrollo y la utilización de estas tecnologías para asegurar que las ciudades inteligentes no solo sean un concepto futurista, sino una realidad accesible y beneficiosa para todos.
+
 
 # Referencias
-...
+Bavoleo, B. (s.f.). Ciudades sustentables e inteligentes. El plan surcoreano de desarrollo de Smart-Cities. Corea ante un nuevo cambio de época. Aproximaciones desde el Sur Global, 449.
+Estrada, E., Negrón, A. P. P., López, G. L., & Casillas, L. A. (2018). Algoritmos para el control de indicadores clave de desempeño para Smart Cities. Res. Comput. Sci., 147(8), 121-133.
+Negro, A. E. (2021). La promesa de las “smart cities” como nuevo enclave ideológico del proceso de neoliberalización de las ciudades. Quid 16: Revista del Área de Estudios Urbanos, 244-262.
+Solano, J. J. B., Solano, R. B., & Esteban, A. M. (2023). Prácticas digitales y sostenibilidad socioambiental en la educación básica de las Smart Cities: Prácticas digitales y sostenibilidad socioambiental en la educación básica de las Smart Cities. Revista de Educación a Distancia (RED), 23(72).
+Bedolla Solano, J. J., Bedolla Solano, R., & Miranda Esteban, A. (2023). Prácticas digitales y sostenibilidad socioambiental en la educación básica de las Smart Cities.
+3, E. (2018, 11 enero). Los retos de la educación para las ciudades del futuro (smart cities). EDUCACIÓN 3.0. https://www.educaciontrespuntocero.com/noticias/los-retos-de-la-educacion-para-las-ciudades-del-futuro-smart-cities/
+DiMaggio, P., & Hargittai, E. (2001). From the ‘digital divide’to ‘digital inequality’: Studying Internet use as penetration increases. Princeton: Center for Arts and Cultural Policy Studies, Woodrow Wilson School, Princeton University, 4(1), 4-2.
+Atzori, L., Iera, A., & Morabito, G. (2010). The internet of things: A survey. Computer networks, 54(15), 2787-2805.
+Giffinger, R., Fertner, C., Kramar, H., Kalasek, R., Pichler-Milanovic, N., & Meijers, E. J. (2007). Smart cities. Ranking of European medium-sized cities. Final Report.
+ACÚSTICA, H. D. E. E. EUROPEAN SYMPOSIUM ON SMART CITIES AND ENVIRONMENTAL ACOUSTICS.https://documentacion.sea-acustica.es/publicaciones/Murcia14/AED-0%20015.pdf
+Martínez-Montoro, D. (2017). Smart Cities como un medio para el desarrollo sostenible. https://hdl.handle.net/10953.1/4991
 
 
-# Especificaciones y Caracteristicas 
-
->* Tipo: Pantalla LCD Monocromática
->* Voltaje de alimentación: 3.3V / 5V DC
->* Interfaz: Paralelo 4 y 8 bits
->* 6800 paralelo de 4 bits
->* 6800 paralelo de 8 bits
->* Filas: 2
->* Columnas: 16
->* Controlador o equivalente: AIP31066, HD44780, KS0066 , SPLC780 , ST7066
->* Color disponible:
->* Fondo azul y texto blanco
->* Fondo amarillo y texto negro
-
-# codigo en .ino (Arduino)
-
-```javascript
-
-// LCD1602 and Pi Pico!
-
-#include <LiquidCrystal.h>
-
-LiquidCrystal lcd(12, 11, 10, 9, 8, 7);
-
-void setup() {
-  lcd.begin(16, 2);
-  lcd.print("LCD");
-
-  lcd.setCursor(2, 1);
-  lcd.print("> Pi Pico <");
-}
-
-void loop() {
-  delay(1); // Adding a delay() here speeds up the simulation
-}
-
-```
->
-
-# Codigo Json (JavaScript Object Notation)
-
-```javascript 
-{
-  "version": 1,
-  "author": "Uri Shaked",
-  "editor": "wokwi",
-  "parts": [
-    {
-      "type": "wokwi-pi-pico",
-      "id": "pico",
-      "top": 123.67,
-      "left": 135.97,
-      "rotate": 90,
-      "hide": false,
-      "attrs": { "env": "arduino-community" }
-    },
-    {
-      "type": "wokwi-lcd1602",
-      "id": "lcd",
-      "top": -17.85,
-      "left": 22.03,
-      "rotate": 0,
-      "hide": false,
-      "attrs": {}
-    },
-    {
-      "type": "wokwi-resistor",
-      "id": "r1",
-      "top": 114.8,
-      "left": 226.31,
-      "rotate": 0,
-      "hide": false,
-      "attrs": { "value": "220" }
-    }
-  ],
-  "connections": [
-    [ "pico:GND.1", "lcd:VSS", "black", [ "v-51", "*", "h0", "v18" ] ],
-    [ "pico:GND.1", "lcd:K", "black", [ "v-51", "*", "h0", "v18" ] ],
-    [ "pico:GND.1", "lcd:RW", "black", [ "v-51", "*", "h0", "v18" ] ],
-    [ "pico:VSYS", "lcd:VDD", "red", [ "v16", "h-16" ] ],
-    [ "pico:VSYS", "r1:2", "red", [ "v16", "h0" ] ],
-    [ "r1:1", "lcd:A", "pink", [] ],
-    [ "pico:GP12", "lcd:RS", "blue", [ "v-16", "*", "h0", "v20" ] ],
-    [ "pico:GP11", "lcd:E", "purple", [ "v-20", "*", "h0", "v20" ] ],
-    [ "pico:GP10", "lcd:D4", "green", [ "v-24", "*", "h0", "v20" ] ],
-    [ "pico:GP9", "lcd:D5", "brown", [ "v-28", "*", "h0", "v20" ] ],
-    [ "pico:GP8", "lcd:D6", "gold", [ "v-32", "*", "h0", "v20" ] ],
-    [ "pico:GP7", "lcd:D7", "gray", [ "v-36", "*", "h0", "v20" ] ]
-  ]
-}
-
-```
-
-
-# Funcionamiento en Wokwi 
-
-![image](https://user-images.githubusercontent.com/124211806/227040657-aa2183c0-3ab4-4adb-acc6-0531a6eb5265.png)
-
-> # Link de proyecto en wokwi
-> https://wokwi.com/projects/297323005822894602
-
-# Bibliografia 
-> https://www.um.es/docencia/barzana/DIVULGACION/ELECTRONICA/LCD-historia.html#:~:text=Paneles%20LCD&text=En%20el%20a%C3%B1o%201964%20en,t%C3%A9cnica%20en%20aquel%20entonces%20revolucionaria.
-
-> https://visualled.com/pantallas-led-info/pequena-historia-del-lcd/
 
 
