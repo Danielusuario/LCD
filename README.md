@@ -29,13 +29,13 @@ El desarrollo de una "Ciudad Inteligente" con un enfoque específico en estudian
  Impacto de la tecnología en el aprendizaje y la calidad de vida de los estudiantes en ciudades inteligentes y ciudades convencionales.
 
 # 4. Generalidades del Proyecto
-# Acceso Equitativo a Recursos Educativos:
+## Acceso Equitativo a Recursos Educativos:
 La tecnología puede proporcionar un acceso equitativo a recursos educativos de alta calidad, incluyendo plataformas de aprendizaje en línea y bibliotecas digitales. Esto es especialmente relevante en un mundo en el que el aprendizaje a distancia y el acceso a información relevante son cruciales para el éxito académico.
-# Aprendizaje Personalizado:
+## Aprendizaje Personalizado:
 Las tecnologías educativas permiten la personalización del aprendizaje, adaptando el contenido y los recursos según las necesidades individuales de cada estudiante, lo que puede mejorar significativamente el rendimiento académico.
-# Movilidad: Transporte Eficiente y Seguro:
+## Movilidad: Transporte Eficiente y Seguro:
 La tecnología puede optimizar el transporte público, con sistemas de seguimiento en tiempo real y rutas escolares inteligentes. Esto asegura que los estudiantes lleguen a sus escuelas de manera segura y oportuna, al tiempo que reduce la congestión y las emisiones de carbono.
-# Aplicaciones de Movilidad:
+## Aplicaciones de Movilidad:
 Las aplicaciones móviles pueden proporcionar información en tiempo real sobre rutas, horarios de transporte y alternativas de movilidad, facilitando la planificación y el desplazamiento de los estudiantes.
 
 # 5. Objetivo General
