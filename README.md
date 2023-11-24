@@ -191,7 +191,12 @@ Seguridad Pública Inteligente: Utiliza cámaras de vigilancia y sistemas de ale
 
 
 ### 17.1. Funciones y los Diseños Implementados
-...
+Las funciones y diseños implementados en las distintas ciudades inteligentes varían según las necesidades y objetivos específicos de cada lugar, pero algunas funciones y diseños comunes que se han implementado en muchas de estas ciudades son las siguientes.
+
+       >* Gestión de la movilidad: Las smart cities suelen contar con sistemas de transporte público eficientes, incluyendo la implementación de sistemas de                 transporte público automatizado (como metro o tren ligero) y sistemas de gestión de tráfico inteligente.
+        >* Gestión de residuos: La recolección de basura y reciclaje puede ser más eficiente mediante sensores en los contenedores que indican cuándo están                   llenos y necesitan ser vaciados. Esto reduce costos y la huella ambiental.
+        >* Eficiencia energética: La iluminación pública y los sistemas de climatización en edificios públicos suelen estar automatizados para reducir el consumo             de energía. También se fomenta el uso de energías renovables, como la solar y la eólica.
+        >* Desarrollo sostenible: Las smart cities tienden a promover la sostenibilidad ambiental mediante la plantación de árboles, la creación de áreas verdes             y la promoción de la movilidad sostenible, como el uso de bicicletas y vehículos eléctricos.
 
 ## 18. Tabla de Cumplimientos de Objetivos
 ...
