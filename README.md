@@ -13,7 +13,7 @@
 - [5. Objetivo General](#5-objetivo-general)
 - [6. Objetivos Específicos](#6-objetivos-específicos)
 
-#Introducción
+# Introducción
 
 En el siglo XXI, nuestras ciudades están experimentando una transformación radical, impulsada por avances tecnológicos que están remodelando la forma en que vivimos, trabajamos y aprendemos. En este contexto, un enfoque esencial y en constante evolución es la creación de "Smart Cities" o Ciudades Inteligentes, diseñadas para optimizar la calidad de vida de sus habitantes y, en particular, para brindar oportunidades excepcionales a los estudiantes.
 En esta exploración, abordaremos cómo las Ciudades Inteligentes pueden servir como entornos ideales para el aprendizaje y el crecimiento de los estudiantes. Desde el acceso a recursos educativos de vanguardia hasta sistemas de transporte eficientes y tecnología de seguridad innovadora, estas ciudades están redefiniendo la forma en que los jóvenes adquieren conocimiento, se desplazan y se mantienen seguros. Este enfoque no solo beneficia a los estudiantes actuales, sino que también sienta las bases para una generación futura de ciudadanos altamente capacitados y conscientes de su entorno.
